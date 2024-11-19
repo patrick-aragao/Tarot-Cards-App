@@ -1,4 +1,4 @@
-## Tarot Reading App is a Coapstone Project from Stanford - TECH 14 From Data to Deployment: Creating Production-Ready Large Language Model Applications
+## Tarot Reading App is a Capstone Project from Stanford - TECH 14 From Data to Deployment: Creating Production-Ready Large Language Model Applications
 
 Using python,tkinter and openai my idea was to build a simple app capable of answer users questions using knowledge of Tarot, most specifically the Gilded Reverie Lenormand Tarot Deck.
 
